@@ -4,7 +4,7 @@
   <h1>djavan minha vida</h1>
   <p>djavan meu amor</p>
 </body>
-<head>
-<link rel="stylesheet" href= "styles.css">
+<head
+<linkrel="stylesheet"href="styles.css">
 <title>ALuraflix</title>
 </head>
